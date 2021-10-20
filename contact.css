@@ -1,0 +1,16 @@
+ body{
+	background-color: white;
+	background-size: cover;
+	background-position: center;
+	height: 100px;
+}
+   
+.footer{
+ float: center;
+ background-color: red;
+ position: fixed;
+ left: 0;
+ bottom: 0;
+ right: 0;
+ width: 100%;
+}
